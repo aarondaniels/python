@@ -4,4 +4,4 @@ This repo will capture python functions that have proven useful in different app
 
 ## Grades Database
 
-[This repo]() will outlinen how to create a relational data model in python. It uses a grades db as context for the relational model. It uses dictionaries, lists, redundant dictionaries to model the data structure. 
+[This repo](https://github.com/aarondaniels/python/tree/main/relational_db_models) will outlinen how to create a relational data model in python. It uses a grades db as context for the relational model. It uses dictionaries, lists, redundant dictionaries to model the data structure. 
